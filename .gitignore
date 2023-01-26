@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+graphic_arts/start_game_banner.py
+.vscode/settings.json
+.vscode/settings.json
