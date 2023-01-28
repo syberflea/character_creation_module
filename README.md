@@ -1,2 +1,2 @@
-# character_creation_module
+# Character creation module
 Модуль создания персонажа для RPG игры
